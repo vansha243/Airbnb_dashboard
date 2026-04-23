@@ -1,4 +1,4 @@
-# Airbnb_dashboard
+# Airbnb_dashboard link- https://drive.google.com/file/d/1ReTw7pM_UfKBqqkZYYBMUP0-oUn6P-Ed/view?usp=drive_link
 This interactive dashboard delivers deep insights into short-term rental performance, focusing on pricing patterns, seasonal demand, customer trust indicators, and revenue distribution. It enables users to explore how different factors impact listing performance and occupancy trends. This project focuses on real analytical thinking like data modeling, DAX, Pareto analysis, seasonality, pricing, and trust insights.
 
 Purpose
